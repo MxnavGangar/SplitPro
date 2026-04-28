@@ -4,7 +4,7 @@
 
 ![SplitPro Banner](https://img.shields.io/badge/SplitPro-Smart%20Expense%20Splitter-7c6aff?style=for-the-badge)
 ![Stack](https://img.shields.io/badge/Stack-React%20%2B%20Node.js%20%2B%20PostgreSQL-blue?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-Gemini%20%2F%20LLM%20Integration-8b5cf6?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-%20LLM%20Integration-8b5cf6?style=for-the-badge)
 
 ---
 
